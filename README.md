@@ -42,7 +42,7 @@
 
 ## Experience
 
-### Software Engineer at DBA Tecnologia
+### Software Engineer @ DBA Tecnologia
 > June 2012 - Until now (3 years an 9 months)
 
 DBA Tecnologia is a company focused in traffic analysis and paid parking systems. Here I work on a lot of challenging projects, which I enumerate a few below:
@@ -62,7 +62,7 @@ Helped find market requirements and design the system architecture, which integr
 
 Designed and developed from the ground-up the whole embedded system running on the parkingmenter, from the ARM processor used, the operating system architecture (deployment, update) and tweaks (memory allocator, libc), device driver development, application and user interface developmet. I also contributed to mechanical design ideas and problem solving.
 
-### Embedded Software Engineer at Ahgora Sistemas
+### Embedded Software Engineer @ Ahgora Sistemas
 > January 2012 - June 2012 (6 months)
 
 Ahgora is a company focused in attendance and access control systems. I worked with bleeding edge technologies and an awesome team of experts. For them I worked mostly on embedded team, with some interesting projects.
@@ -76,7 +76,7 @@ Developed an Android passive RFID (ISO 18000-6c) reader software for asset manag
 
 Worked on prototypes for electronic labelling project, whose was used on supermarkets to update automatically the prices of shelves in a dedicated, low power embedded system which communicated using a own developed protocol over 2.4Ghz wireless.
 
-### Operations Intern at Unioeste
+### Operations Intern @ Unioeste
 > March 2011 - December 2011 (10 months)
 
 Unioeste is the name of Universidade Estadual do Oeste do Paraná (or Paraná's West State University), where I studied Computer Science course for 4 years. There I was an intern in the IT division, helping other students with system login, troubleshoot wireless issues and fix laboratory computers. In the internship I participated in interesting tasks:
@@ -105,7 +105,7 @@ Implemented designs from Adobe Photoshop into standards-compliant HTML, CSS and 
 A pure-python and Linux native GPIO access library. Include the ability to be asynchronously notified when a signal changes using Linux edge triggered polling. See more at [project's GitHub])(https://github.com/derekstavis/python-sysfs-gpio).
 
 ### Oh My Fish
-Core developer at Oh My Fish, a shell framework for managing plugins and prompts. See more at [project's GitHub])(https://github.com/oh-my-fish/oh-my-fish).
+Core developer at Oh My Fish, a shell framework for managing plugins and prompts. Manages the community, accepts package pull requests and reviews code. See more at [project's GitHub])(https://github.com/oh-my-fish/oh-my-fish).
 
 ### Fish Foreign Environment
 A compatibility layer which allows running bash-based applications and import environment variables changed. See more at [project's GitHub])(https://github.com/oh-my-fish/plugin-foreign-env).
@@ -121,8 +121,8 @@ Theme of my [term-paper](https://github.com/derekstavis/term-paper), it's a port
 
 ## Education
 
-### Bachelor in Computer Science at Unioeste
+### Bachelor in Computer Science @ Unioeste
 > January 2008 - December 2011 (4 years)
 
-### Software Analysis and Development Techologist at SENAI
+### Software Analysis and Development Techologist @ SENAI
 > January 2012 - December 2015 (3 years)
