@@ -102,22 +102,22 @@ Implemented designs from Adobe Photoshop into standards-compliant HTML, CSS and 
 ## Projects
 
 ### Native Linux and Python GPIO access
-A pure-python and Linux native GPIO access library. Include the ability to be asynchronously notified when a signal changes using Linux edge triggered polling. See more at [project's GitHub])(https://github.com/derekstavis/python-sysfs-gpio).
+A pure-python and Linux native GPIO access library. Include the ability to be asynchronously notified when a signal changes using Linux edge triggered polling. See more at [project's GitHub](https://github.com/derekstavis/python-sysfs-gpio).
 
 ### Oh My Fish
-Core developer at Oh My Fish, a shell framework for managing plugins and prompts. Manages the community, accepts package pull requests and reviews code. See more at [project's GitHub])(https://github.com/oh-my-fish/oh-my-fish).
+Core developer at Oh My Fish, a shell framework for managing plugins and prompts. Manages the community, accepts package pull requests and reviews code. See more at [project's GitHub](https://github.com/oh-my-fish/oh-my-fish).
 
 ### Fish Foreign Environment
-A compatibility layer which allows running bash-based applications and import environment variables changed. See more at [project's GitHub])(https://github.com/oh-my-fish/plugin-foreign-env).
+A compatibility layer which allows running bash-based applications and import environment variables changed. See more at [project's GitHub](https://github.com/oh-my-fish/plugin-foreign-env).
 
 ### nvm plugin for Oh My Fish
-Uses Fish Foreign Environment compatibility layer to make node version manager work under fish, also providing nice completions. See more at [project's GitHub])(https://github.com/derekstavis/plugin-nvm).
+Uses Fish Foreign Environment compatibility layer to make node version manager work under fish, also providing nice completions. See more at [project's GitHub](https://github.com/derekstavis/plugin-nvm).
 
 ### Nordic nRF24LE1 toolkit for RaspberryPi
-A toolkit for flashing and dumping Nordic's nRF24LE1 microcontrollers via Raspberry Pi. See more at [project's GitHub])(https://github.com/derekstavis/nrf24le1-libbcm2835).
+A toolkit for flashing and dumping Nordic's nRF24LE1 microcontrollers via Raspberry Pi. See more at [project's GitHub](https://github.com/derekstavis/nrf24le1-libbcm2835).
 
 ### Transmission torrent client
-Theme of my [term-paper](https://github.com/derekstavis/term-paper), it's a port of GTK client compliant with GNOME Human Interface Guidelines. See more at [project's GitHub])(https://github.com/derekstavis/transmission).
+Theme of my [term-paper](https://github.com/derekstavis/term-paper), it's a port of GTK client compliant with GNOME Human Interface Guidelines. See more at [project's GitHub](https://github.com/derekstavis/transmission).
 
 ## Education
 
