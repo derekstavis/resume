@@ -15,31 +15,6 @@
 - English (fluent)
 - Spanish (entry level)
 
-## Skills and Expertise
-
-- Linux
-- OS X
-- Git
-- Programming
-- Embedded Systems
-- JavaScript
-- Android
-- HTML
-- CSS
-- Python
-- Ruby
-- C (language)
-- GTK+
-- Bash
-- Fish (shell)
-- User experience
-- D-Bus
-- Coaching
-- PostgreSQL
-- MongoDB
-- Redis
-- Presentation
-
 ## Experience
 
 ### Software Engineer @ DBA Tecnologia
@@ -48,19 +23,57 @@
 DBA Tecnologia is a company focused in traffic analysis and paid parking systems. Here I work on a lot of challenging projects, which I enumerate a few below:
 
 #### Company-wide:
-I helped in growing company's infrastructure by making changes on hardware and software stack, deploying Git versioning system using Gitlab, creating the documenting habit by using a Wiki system. I also deployed virtualization technologies for fast-paced machine creation and destruction. 
+I helped in growing company's infrastructure by making changes on hardware and software stack, deploying Git versioning system using Gitlab, creating the documenting habit by using a Wiki system. I also deployed virtualization technologies for fast-paced machine creation and destruction.
 
 #### Traffic System:
-Developed a Node.js web-based system to organize data acquisition spots, schedule equipment installations and input collected data. Collected data input spawns asynchronous workers (written in C for performance reasons) which generate various reports, whose are then served through REST APIs to both desktop and web clients for human analysis and correction.
+Designed and developed a Node.js web-based system to organize data acquisition spots, schedule equipment installations and input collected data. As a massive car-by-car data, asynchronous workers written in C for performance reasons generate various reports, whose are then served through REST APIs to both desktop and web clients for human analysis and correction.
 
-Developed a desktop application for callibrating, installing and collecting the data, which integrates with cloud APIs to send data on the fly, without need to return to office. For vehicle classification I also developed a desktop application which allow users to classify vehicles based on images, making the classification process faster and also less error-prone.
+Designed and developed a JavaScript desktop application based on Electron for callibrating, installing and acquiring electronic vehicle counter data, doing serial communication and cloud APIs integration to send data on the fly, without need to return to office. For vehicle classification I also developed a desktop application which allow users to classify vehicles based on images, making the classification process faster.
 
-Both tools and culture introduced via the developed applications helped making the field process less error-prone, raising reports quality and lowering the delivery time, allowing the company to do more work, more efficiently.
+I feel that the code written added great value, contributing to make field process less error-prone, raising reports quality and lowering the delivery time. This allowed the company to do more work more efficiently.
 
 #### Parking System:
-Helped find market requirements and design the system architecture, which integrates lots of clients: Parkingmeter, parking fiscal equipments, citizen mobile application and website.
+Helped find market requirements and design the system architecture, which integrates lots of clients: Parking meter, parking fiscal apps, voice response unit, citizen mobile application and website.
 
-Designed and developed from the ground-up the whole embedded system running on the parkingmenter, from the ARM processor used, the operating system architecture (deployment, update) and tweaks (memory allocator, libc), device driver development, application and user interface developmet. I also contributed to mechanical design ideas and problem solving.
+I also designed and developed from the ground-up the whole embedded system running on the parking meter, from the ARM processor used, the operating system architecture (deployment, update) and tweaks (memory allocator, libc), device driver development, application and user interface development. I also contributed to mechanical design ideas and problem solving.
+
+For allowing users to pay for parking using a phone call I also designed and developed an Interactive Voice Response Unit based on Asterisk, crafted in full asynchronous JavaScript running on Node.js. 
+
+#### Languages, Tools and Skills
+
+* Linux
+* Git
+* Ruby
+  - Sinatra
+  - Rails
+  - PostgreSQL
+  - pg_search
+* Python
+  - setuptools
+  - Twisted
+  - treq
+  - MongoDB
+  - Kivy
+* NodeJS
+  - express
+  - mongojs
+  - electron
+  - asterisk
+* Front-end
+  - Angular
+  - Grunt
+  - React
+  - Webpack
+  - LESS
+  - SCSS
+  - SVG
+* Android
+  - Jackson
+  - Volley
+* Designer Stuff
+  - Adobe Illustrator and Photoshop
+  - Inkscape
+  - GIMP
 
 ### Embedded Software Engineer @ Ahgora Sistemas
 > January 2012 - June 2012 (6 months)
@@ -76,6 +89,15 @@ Developed an Android passive RFID (ISO 18000-6c) reader software for asset manag
 
 Worked on prototypes for electronic labelling project, whose was used on supermarkets to update automatically the prices of shelves in a dedicated, low power embedded system which communicated using a own developed protocol over 2.4Ghz wireless.
 
+#### Languages, Tools and Skills
+
+* Linux
+* Git
+* Linux C
+* Bare-metal C
+* sdcc
+* Android
+
 ### Operations Intern @ Unioeste
 > March 2011 - December 2011 (10 months)
 
@@ -84,6 +106,13 @@ Unioeste is the name of Universidade Estadual do Oeste do Paraná (or Paraná's 
 - Windows/Linux operating system deployment and domain migration
 - PlayStation 3 clusterization for scientific processing
 - Various proccess automatizations using batch scripts
+
+#### Languages, Tools and Skills
+
+* Linux
+* Bash Scripting
+* Windows Scripting
+* Active Directory
 
 ### Full-stack web developer and graphical designer @ Freelancer
 > January 2011 - December 2011 (12 months)
@@ -94,10 +123,38 @@ The website frontend was designed in standards-compliant HTML5, CSS and JavaScri
 
 The deployment was planned in two parts, being the first phase a landing page with an animation of event's theme with a countdown timer for the event day, and the second, which replaced the first phase, the main website, deployed one month before the event, which included event's schedule, the description of each activity and a photo stream of previous events. There was an integrated Facebook comments box, which proved to be a nice channel for communicating with people interested in the event. In the end of the event the website was fed with photos taken by the staff, and stayed alive until the next event.
 
+#### Languages, Tools and Skills
+
+* Linux
+  - Server Management 
+* OS X
+  - Adobe Illustrator and Photoshop
+  - Tumult Hype
+* PHP
+  - Drupal 7
+* JavaScript
+* jQuery
+* HTML
+* CSS
+* SVG
+
 ### Full-stack web developer @ mz2 webdesign studio (freelancer)
 > October 2006 - July 2009
 
 Implemented designs from Adobe Photoshop into standards-compliant HTML, CSS and JavaScript. Helped modelling MySQL databases and implemented backends mostly in PHP. Developed web components using Adobe Flash and ActionScript 3, integrated with page using JavaScript callbacks.
+
+#### Languages, Tools and Skills
+
+* OS X
+* Adobe
+  - Illustrator
+  - Photoshop
+  - Flash
+  - Fireworks 
+* PHP
+* HTML
+* CSS
+* JavaScript
 
 ## Projects
 
