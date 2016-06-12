@@ -17,32 +17,54 @@
 
 ## Experience
 
-### Software Engineer @ DBA Tecnologia
-> June 2012 - Until now (3 years an 9 months)
+### Software Engineer @ Healfies
+> April 2016 - Until now
 
-DBA Tecnologia is a company focused in traffic analysis and paid parking systems. Here I work on a lot of challenging projects, which I enumerate a few below:
+Healfies is a startup focused in providing a social network approach for healthcare, allowing patients to receive health data securely and have full control of it while sharing with physicians and other health professionals. It's a new way to keep your data and communicate with health professionals.
+
+#### Languages, Tools and Skills
+* Linux
+* Git
+* AWS
+* Node.js
+* MongoDB
+
+#### Web Application:
+Deployed Webpack to application as a way to slim down its size, minimize the number of HTTP requests, and give an end to issues related to caching. As a side effect of applying Webpack, also refactored the application structure to ease the code collaboration process and avoid merge conflicts.
+
+### Software Engineer @ DBA Tecnologia
+> June 2012 - April 2016 (3 years an 10 months)
+
+DBA Tecnologia is a company focused in traffic analysis and paid parking systems. I worked there on a lot of challenging projects, which I enumerate a few below:
 
 #### Company-wide:
-I helped in growing company's infrastructure by making changes on hardware and software stack, deploying Git versioning system using Gitlab, creating the documenting habit by using a Wiki system. I also deployed virtualization technologies for fast-paced machine creation and destruction.
+Helped in growing company's infrastructure by making changes on hardware and software stack, deploying Git versioning system using Gitlab, creating the documentation habit by using a Wiki system. Also deployed virtualization technologies for fast-paced machine creation and destruction.
 
 #### Traffic System:
-Designed and developed a Node.js web-based system to organize data acquisition spots, schedule equipment installations and input collected data. As a massive car-by-car data, asynchronous workers written in C for performance reasons generate various reports, whose are then served through REST APIs to both desktop and web clients for human analysis and correction.
+Designed a system to organize company's most important service: Vehicle traffic counting and classification. The solution was projected to take care of the whole process: Orders, data acquisition spots, equipment callibration, data extraction, synchronization and digestion. As a lead developer, took strategic decisions based on team knowlege and performance requirements, by  benchmarking multiple languages and choosing the best software frameworks.
 
-Designed and developed a JavaScript desktop application based on Electron for callibrating, installing and acquiring electronic vehicle counter data, doing serial communication and cloud APIs integration to send data on the fly, without need to return to office. For vehicle classification I also developed a desktop application which allow users to classify vehicles based on images, making the classification process faster.
+In the platform front, developed the core of data receiving system in JavaScript and crafted the background workers that processed the data in C + GLib, resulting in the most complex historic data set found (2 million records in 2 months) being processed in a minute, while the most common data set taking average 17 seconds to process, greatly improving the report generation time.
 
-I feel that the code written added great value, contributing to make field process less error-prone, raising reports quality and lowering the delivery time. This allowed the company to do more work more efficiently.
+In the field front, designed the user interface and developed a desktop application based on JavaScript + Electron for callibrating, installing and acquiring electronic vehicle counter data, doing serial communication and internet API integration to send data on the fly, without need to return to office.
+
+In the office front, also designed the user interface and developed a desktop application to allow users to classify vehicles imagery visually, making the classification process faster.
+
+In this project, the feeling was that that the code written added great value, contributing to make field process less error-prone, raising reports quality and lowering the delivery time. This allowed the company to do more work more efficiently.
 
 #### Parking System:
-Helped find market requirements and design the system architecture, which integrates lots of clients: Parking meter, parking fiscal apps, voice response unit, citizen mobile application and website.
+Helped find market requirements and design the whole system architecture, which integrates lots of clients: Parking meter, parking fiscal apps, voice response unit, citizen mobile application and website.
 
-I also designed and developed from the ground-up the whole embedded system running on the parking meter, from the ARM processor used, the operating system architecture (deployment, update) and tweaks (memory allocator, libc), device driver development, application and user interface development. I also contributed to mechanical design ideas and problem solving.
+On the equipment front, designed and developed from the ground-up the whole embedded system running on the parking meter, from the ARM processor used, the operating system architecture (deployment, update) and tweaks (memory allocator, libc), device driver development (Python, C), application (Python, D-Bus) and user interface development (Python). Also contributed to mechanical design ideas and problem solving.
 
-For allowing users to pay for parking using a phone call I also designed and developed an Interactive Voice Response Unit based on Asterisk, crafted in full asynchronous JavaScript running on Node.js. 
+On the integrations front, designed and developed the Interactive Voice Response Unit based on Asterisk, written in pure functional and asynchronous JavaScript running on Node.js.
+
+On the platform front, aided in HTTPS certificate emission and management, cloud deploys and management using Amazon Web Services.
 
 #### Languages, Tools and Skills
 
 * Linux
 * Git
+* AWS
 * Ruby
   - Sinatra
   - Rails
